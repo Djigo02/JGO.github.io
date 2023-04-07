@@ -1,0 +1,43 @@
+[
+    {
+        "level":1,
+        "question":"En combien de jour JS a ete ecrit ? (en lettre)",
+        "reponse":"dix"
+    },{
+        "level":2,
+        "question":"Quel langage a comme logo un elephant ?",
+        "reponse":"php"
+    },{
+        "level":3,
+        "question":"Quel est le plus petit pays du monde ?",
+        "reponse":"vatican"
+    },{
+        "level":4,
+        "question":"Combien de cœurs a une pieuvre? (en lettre)",
+        "reponse":"trois"
+    },{
+        "level":5,
+        "question":"Qui a gagné le coupe du monde en 2014 ?",
+        "reponse":"Allemagne"
+    },{
+        "level":6,
+        "question":"Quelle est la plus grande montagne de l'Afrique ?",
+        "reponse":"Kilimandjaro"
+    },{
+        "level":7,
+        "question":"La mère d'Ana a 5 filles : Fafe, Fefe, Fifi, Fofe et... Comment s'appelle la dernière fille ?",
+        "reponse":"Ana"
+    },{
+        "level":8,
+        "question":"Quelle est la valeur de la moitié de la moitié du numéro 20 ? (en lettre)",
+        "reponse":"Cinq"
+    },{
+        "level":9,
+        "question":"Combien de numéros neuf y a-t-il de 0 à 100 (en lettre) ?",
+        "reponse":"Onze"
+    },{
+        "level":10,
+        "question":"Quel est le nom de la plus grande planète de notre système solaire ?",
+        "reponse":"Jupiter"
+    }
+]
