@@ -1,4 +1,4 @@
-{
+[
     {
         "level":1,
         "question":"En combien de jour JS a ete ecrit ? (en lettre)",
@@ -40,4 +40,4 @@
         "question":"Quel est le nom de la plus grande planète de notre système solaire ?",
         "reponse":"Jupiter"
     }
-}
+]
